@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:3:5-67
-11-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:3:22-64
+11-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:3:22-64
 12    <!--
 13    This manifest file is used only by Gradle to configure debug-only capabilities
 14    for React Native Apps.
@@ -34,49 +34,49 @@
 23-->[androidx.core:core:1.9.0] /Users/mac/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 24
 25    <application
-25-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:5:5-24:19
+25-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:5:5-24:19
 26        android:name="com.clapper.MainApplication"
-26-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:6:7-38
+26-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:6:7-38
 27        android:allowBackup="false"
-27-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:10:7-34
+27-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:10:7-34
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.9.0] /Users/mac/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 29        android:debuggable="true"
 30        android:extractNativeLibs="true"
 31        android:icon="@mipmap/ic_launcher"
-31-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:8:7-41
+31-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:8:7-41
 32        android:label="@string/app_name"
-32-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:7:7-39
+32-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:7:7-39
 33        android:roundIcon="@mipmap/ic_launcher_round"
-33-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:9:7-52
+33-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:9:7-52
 34        android:testOnly="true"
 35        android:theme="@style/AppTheme"
-35-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:11:7-38
+35-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:11:7-38
 36        android:usesCleartextTraffic="true" >
-36-->/Users/mac/Desktop/test_react/clapper/android/app/src/debug/AndroidManifest.xml:6:9-44
+36-->/Users/mac/Desktop/react-native-clapper/android/app/src/debug/AndroidManifest.xml:6:9-44
 37        <activity
-37-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:12:7-23:18
+37-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:12:7-23:18
 38            android:name="com.clapper.MainActivity"
-38-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:13:9-37
+38-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:13:9-37
 39            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-39-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:15:9-118
+39-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:15:9-118
 40            android:exported="true"
-40-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:18:9-32
+40-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:18:9-32
 41            android:label="@string/app_name"
-41-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:14:9-41
+41-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:14:9-41
 42            android:launchMode="singleTask"
-42-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:16:9-40
+42-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:16:9-40
 43            android:windowSoftInputMode="adjustResize" >
-43-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:17:9-51
+43-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:17:9-51
 44            <intent-filter>
-44-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:19:9-22:25
+44-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:19:9-22:25
 45                <action android:name="android.intent.action.MAIN" />
-45-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:20:13-65
-45-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:20:21-62
+45-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:20:13-65
+45-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:20:21-62
 46
 47                <category android:name="android.intent.category.LAUNCHER" />
-47-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:21:13-73
-47-->/Users/mac/Desktop/test_react/clapper/android/app/src/main/AndroidManifest.xml:21:23-70
+47-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:21:13-73
+47-->/Users/mac/Desktop/react-native-clapper/android/app/src/main/AndroidManifest.xml:21:23-70
 48            </intent-filter>
 49        </activity>
 50        <activity

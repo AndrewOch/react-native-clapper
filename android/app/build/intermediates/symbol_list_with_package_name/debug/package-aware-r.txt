@@ -680,6 +680,11 @@ drawable rn_edit_text_material
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font dancingscript_regular
+font ubuntu
+font ubuntu_bold
+font ubuntu_medium
+font ubuntu_regular
 id ALT
 id CTRL
 id FUNCTION

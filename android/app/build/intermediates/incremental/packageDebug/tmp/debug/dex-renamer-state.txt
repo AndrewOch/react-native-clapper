@@ -1,14 +1,14 @@
-#Sun Dec 17 18:28:20 MSK 2023
-base.0=/Users/mac/Desktop/test_react/clapper/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/mac/Desktop/test_react/clapper/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/Users/mac/Desktop/test_react/clapper/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.3=/Users/mac/Desktop/test_react/clapper/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.4=/Users/mac/Desktop/test_react/clapper/android/app/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex
+#Tue Dec 19 01:20:59 MSK 2023
+base.0=/Users/mac/Desktop/react-native-clapper/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/mac/Desktop/react-native-clapper/android/app/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex
+base.2=/Users/mac/Desktop/react-native-clapper/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.3=/Users/mac/Desktop/react-native-clapper/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.4=/Users/mac/Desktop/react-native-clapper/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
 path.0=classes.dex
-path.1=0/classes.dex
-path.2=14/classes.dex
-path.3=classes2.dex
-path.4=1/classes.dex
+path.1=1/classes.dex
+path.2=0/classes.dex
+path.3=14/classes.dex
+path.4=classes2.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex

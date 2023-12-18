@@ -4,24 +4,36 @@
         "source": "com.clapper.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.clapper.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.clapper.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.clapper.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.clapper.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.clapper.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.clapper.app-main-30:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.clapper.app-merged_res-28:/font_dancingscript_regular.ttf.flat",
+        "source": "com.clapper.app-main-30:/font/dancingscript_regular.ttf"
     },
     {
         "merged": "com.clapper.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "com.clapper.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "com.clapper.app-merged_res-28:/font_ubuntu_medium.ttf.flat",
+        "source": "com.clapper.app-main-30:/font/ubuntu_medium.ttf"
+    },
+    {
         "merged": "com.clapper.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "com.clapper.app-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.clapper.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.clapper.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.clapper.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.clapper.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.clapper.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.clapper.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.clapper.app-merged_res-28:/font_ubuntu_bold.ttf.flat",
+        "source": "com.clapper.app-main-30:/font/ubuntu_bold.ttf"
     },
     {
         "merged": "com.clapper.app-merged_res-28:/drawable_rn_edit_text_material.xml.flat",
@@ -42,5 +54,13 @@
     {
         "merged": "com.clapper.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "com.clapper.app-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.clapper.app-merged_res-28:/font_ubuntu.xml.flat",
+        "source": "com.clapper.app-main-30:/font/ubuntu.xml"
+    },
+    {
+        "merged": "com.clapper.app-merged_res-28:/font_ubuntu_regular.ttf.flat",
+        "source": "com.clapper.app-main-30:/font/ubuntu_regular.ttf"
     }
 ]
